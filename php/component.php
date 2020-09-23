@@ -23,7 +23,7 @@ function component($productname, $productprice, $productimg, $productid){
                             </p>
                             <h5>
                                 <small><s class=\"text-secondary\">$519</s></small>
-                                <span class=\"price\">$$productprice</span>
+                                <span class=\"price\">Rs $productprice</span>
                             </h5>
 
                             <button type=\"submit\" class=\"btn btn-warning my-3\" name=\"add\">Add to Cart <i class=\"fas fa-shopping-cart\"></i></button>
